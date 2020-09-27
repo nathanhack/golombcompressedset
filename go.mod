@@ -1,4 +1,4 @@
-module golombfilter
+module github.com/nathanhack/golombcompressedset
 
 go 1.14
 
