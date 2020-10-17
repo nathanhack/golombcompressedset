@@ -1,5 +1,5 @@
 # golombcompressedset
-**golombcompressedset** is Golomb Rice Coded Filter/Set. It is similar to a Bloom Filter but with asymptotically better space characteristics for low probability. The **golombcompressedset** specifically uses the Golomb Rice encoding scheme.  
+**golombcompressedset** is Golomb Rice Coded Filter/Set. It is similar to a Bloom Filter but with asymptotically better space characteristics for low error probability. The **golombcompressedset** specifically uses the Golomb Rice encoding scheme.  
 
 ## Usage
 There are two ways to create a `Filter`.  The first is using a builder.  The second is directly via the `New`.
